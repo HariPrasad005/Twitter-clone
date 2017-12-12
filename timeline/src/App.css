@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  color:#e6ecf0;
+}
+
+.time{
+  width:80%;
+  float: right;
+  
+}
+
+.card1{
+  
+  max-width:600px;
+  margin-bottom: 50px;
+}
+
+.card2{
+  
+  max-width:600px;
+  margin-bottom: 50px;
+}
+
+.list{
+  width: 20%;
+  float: left;
+}
+
+.App-header {
+  background-color: #1DA1F2;
+  height: 45px;
+  padding: 20px;
+  color: white;
+ 
+}
+
+
+.App-title {
+  text-align: left;
+  color: #fff;
+  font-size: 27px;
+  font-weight: bold;
+  line-height: 32px;
+  overflow: hidden;
+  padding-left: 12px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: "Segoe UI",Arial,sans-serif;
+  padding-left: 50px;
+}
+
+.Tab{
+
+  padding-left:60px; 
+  
+}
+
+.progress{
+   margin-left: 300px;
+
+}
